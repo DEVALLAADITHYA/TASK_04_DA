@@ -1,5 +1,7 @@
 # TASK_04_DA
 📊 Customer Churn Prediction in Telecom
+
+
 📌 Project Overview
 
 Customer churn is a major challenge in the telecom industry, where retaining existing customers is often more cost-effective than acquiring new ones.
@@ -85,6 +87,7 @@ Build a Flask/Django API for deployment.
 Deploy as a web app (Streamlit/Gradio) for business users.
 
 📚 Dataset
+
 
 Dataset used: Telco Customer Churn
 📎 Download from Kaggle
